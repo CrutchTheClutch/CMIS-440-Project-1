@@ -3,6 +3,8 @@
 
 Asks the user to input their name, and favorite color. Then generates an appropriate response.
 
+_Note: The "hello1-Original" project was the project I was supplied that needed to be modified.  The result being the "hello1" project._
+
 ---
 ###### This project was assigned while attending University of Maryland University College (UMUC)
 ---
