@@ -1,5 +1,5 @@
 # CMIS-440-Project-1
-#### Introduction to JSF Web Forms
+#### Introduction to JSF Web Forms.
 
 Asks the user to input their name, and favorite color. Then generates an appropriate response.
 
